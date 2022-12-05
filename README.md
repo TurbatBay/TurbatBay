@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **learnwithturu@gmail.com**
 
-- ⚡ Fun fact **I'm into books and I love to try different habits**
+- ⚡ Fun fact **I'm into books and I love to add different habits into my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
