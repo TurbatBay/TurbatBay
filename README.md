@@ -27,9 +27,10 @@
 <a href="https://www.leetcode.com/@tur00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@tur00" height="30" width="40" /></a>
 </p>
 <h3> Projects that i have done:</h3>
+<h2>Js Basic assignments</h2>
 <ul>
-   <li>Өндөр жил олох</li>
-   <li>Өндөр жил олох</li>
+   <li><strong>4 н хувьсагч зарлан тоон утга өг.Өгөгдсөн 4 тооны 80-аас их тоонуудын нийлбэрийг олох</strong></li>
+   <li>Github file location:<a>https://github.com/TurbatBay/leap_2022/blob/main/day-11/js/huwisagch-1.js</a></li>
    <li>Өндөр жил олох</li>
    <li>Өндөр жил олох</li>
    <li>Өндөр жил олох</li>
