@@ -29,9 +29,12 @@
 <h3> Projects that i have done:</h3>
 <h2>Js Basic assignments</h2>
 <ol>
-   <li><strong>4 н хувьсагч зарлан тоон утга өг.Өгөгдсөн 4 тооны 80-аас их тоонуудын нийлбэрийг олох</strong></li>
-   <li>Github file location:<a href="https://github.com/TurbatBay/leap_2022/blob/main/day-11/js/huwisagch-1.js"> Click here</a></li>
-   <li>Github file location:<a href="https://github.com/TurbatBay/leap_2022/blob/main/day-11/js/huwisagch-1.js"> Click here</a></li>
+   <ul>
+      <li><strong>4 н хувьсагч зарлан тоон утга өг.Өгөгдсөн 4 тооны 80-аас их тоонуудын нийлбэрийг олох</strong></li>
+      <li>Github file location:<a href="https://github.com/TurbatBay/leap_2022/blob/main/day-11/js/huwisagch-1.js"> Click here</a></li>
+      <li>Github file location:<a href="https://github.com/TurbatBay/leap_2022/blob/main/day-11/js/huwisagch-1.js"> Click here</a></li>
+   </ul>
+   
 </ol>
 
 <h3 align="left">Languages and Tools:</h3>
