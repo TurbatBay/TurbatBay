@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **MEARN, JAVASCRIPT**
 
-- 📝 Soon I will start writing articles on [https://medium.com/@learnwithturu](https://medium.com/@learnwithturu)
-
 - 💬 Ask me about **HTML CSS and books**
 
 - 📫 How to reach me **learnwithturu@gmail.com**
