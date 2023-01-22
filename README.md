@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Turu</h1>
-<h3 align="center">I am a software developer, currently on a journey of learning and improvement. Despite my passion for technology, my skills and experience are still developing, but I am eager to use my knowledge to create innovative and impactful solutions for real-world problems. I am constantly seeking out new opportunities to learn and grow as a developer, and I am determined to make a meaningful impact in this field.</h3>
+<h3 align="center">I am a software developer in the process of learning and improving my skills. Passionate about technology and determined to make a meaningful impact, I am constantly seeking opportunities to learn and grow as a developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turbatbay&label=Profile%20views&color=0e75b6&style=flat" alt="turbatbay" /> </p>
