@@ -8,7 +8,7 @@
 
 - 🔭 I’m interested in **Web development**
 
-- 🌱 I’m currently learning **REACT and EXPRESS**
+- 🌱 I’m currently learning **REACT and NODEJS**
 
 - 📫 How to reach me **learnwithturu@gmail.com**
 
