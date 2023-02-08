@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **learnwithturu@gmail.com**
 
-- 💻 Birthday reminder app **(https://birthday-reminder-app-eight.vercel.app/)**
-
 - 💻 Checkout my Vercel **(https://vercel.com/turbatbay)**
 
 - ⚡ Fun fact **In my free time, I enjoy reading various books and incorporating new habits into my life to become a well-rounded individual.**
