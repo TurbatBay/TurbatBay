@@ -9,7 +9,7 @@
 - 🔭 I’m interested in **Web development**
 
 - 🌱 I’m currently learning **REACT and NODEJS**
-s
+
 - 📫 How to reach me **learnwithturu@gmail.com**
 
 - 💻 Checkout my Vercel **(https://vercel.com/turbatbay)**
