@@ -8,7 +8,7 @@
 
 - 🔭 I’m interested in **Web development**
 
-- 🌱 I’m currently building **Personal ecommerce website**
+- 🌱 I’m currently learning **Threejs, Webgl**
 
 - 📫 How to reach me **learnwithturu@gmail.com**
 
